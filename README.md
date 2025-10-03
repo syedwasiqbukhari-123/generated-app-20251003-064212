@@ -2,7 +2,7 @@
 
 An AI-powered app that automatically replies to your Shopify leads from your inbox, ensuring you never miss an opportunity.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/syedwasiqbukhari-123/generated-app-20251003-064212)
 
 ---
 
@@ -129,7 +129,7 @@ This project is designed for seamless deployment to Cloudflare's global network.
 
 Or deploy directly from GitHub with one click:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/syedwasiqbukhari-123/generated-app-20251003-064212)
 
 ## Project Structure
 
